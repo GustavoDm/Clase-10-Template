@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1524694294 source:d:\gustavodm\clase 10 template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"fantasma.h"
+
+1493742924 d:\gustavodm\clase 10 template\utn.h
+
+1524701170 d:\gustavodm\clase 10 template\fantasma.h
+
+1493742924 source:d:\gustavodm\clase 10 template\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524702222 source:d:\gustavodm\clase 10 template\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
